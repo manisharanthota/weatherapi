@@ -34,3 +34,18 @@ Tools used: Python,PostgreSQL,Amazon EC2(Ubuntu instance),RDS(postgres instance)
 3. This is just 2 steps, creating an instance and moving python script from local machine to this instance and scheduling with cron.
 4. create an ubuntu instance and used filezilla to transfer python script from local machine to ubuntu instance. After transferring scheduled this script to run for every 30 mins, ofcourse by using cron.
 5. Everything went well and after 8 days with the collected data here I am writing this post.
+
+
+Adding snapshots of the process:
+1. Running on AWS
+![Aws-Ec2-1](https://github.com/manisharanthota/weatherapi/assets/116102968/38a817f6-8d3c-4778-afc9-0f230f93022b)
+2. AWS server instance
+![Aws-Ec2-2](https://github.com/manisharanthota/weatherapi/assets/116102968/379a8be9-bc0a-4502-a0f8-6a92882e6472)
+3. snapshot of Datbase Instance
+![Database-Instance](https://github.com/manisharanthota/weatherapi/assets/116102968/fe01430a-d34c-4f6f-8651-f68a03fb9b41)
+4.cron job status
+![cron-status](https://github.com/manisharanthota/weatherapi/assets/116102968/e4514289-ef6f-4a75-87d6-bd0fa7e25559)
+
+
+
+
