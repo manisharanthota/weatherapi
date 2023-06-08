@@ -45,6 +45,9 @@ Adding snapshots of the process:
 ![Database-Instance](https://github.com/manisharanthota/weatherapi/assets/116102968/fe01430a-d34c-4f6f-8651-f68a03fb9b41)
 4.cron job status
 ![cron-status](https://github.com/manisharanthota/weatherapi/assets/116102968/e4514289-ef6f-4a75-87d6-bd0fa7e25559)
+5.*********Final output***********
+![weatheroutput](https://github.com/manisharanthota/weatherapi/assets/116102968/61f2ff02-91d0-433a-879e-33d7d496b14a)
+
 
 
 
